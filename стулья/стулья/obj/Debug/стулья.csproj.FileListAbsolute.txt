@@ -1,0 +1,13 @@
+E:\NANI\programmer\кпз\стулья\стулья\bin\Debug\стулья.exe.config
+E:\NANI\programmer\кпз\стулья\стулья\bin\Debug\стулья.exe
+E:\NANI\programmer\кпз\стулья\стулья\bin\Debug\стулья.pdb
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.Form1.resources
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.Properties.Resources.resources
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.csproj.GenerateResource.cache
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.exe
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.pdb
+E:\NANI\programmer\кпз\стулья\стулья\bin\Debug\ChairLib.dll
+E:\NANI\programmer\кпз\стулья\стулья\bin\Debug\ChairLib.pdb
+E:\NANI\programmer\кпз\стулья\стулья\obj\Debug\стулья.csproj.CopyComplete

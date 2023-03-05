@@ -1,0 +1,6 @@
+E:\NANI\programmer\кпз\стулья\ChairLib\bin\Debug\ChairLib.dll
+E:\NANI\programmer\кпз\стулья\ChairLib\bin\Debug\ChairLib.pdb
+E:\NANI\programmer\кпз\стулья\ChairLib\obj\Debug\ChairLib.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\стулья\ChairLib\obj\Debug\ChairLib.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\стулья\ChairLib\obj\Debug\ChairLib.dll
+E:\NANI\programmer\кпз\стулья\ChairLib\obj\Debug\ChairLib.pdb
