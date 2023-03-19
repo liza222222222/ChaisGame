@@ -1,0 +1,10 @@
+E:\NANI\programmer\кпз\2\2\bin\Debug\2.exe.config
+E:\NANI\programmer\кпз\2\2\bin\Debug\2.exe
+E:\NANI\programmer\кпз\2\2\bin\Debug\2.pdb
+E:\NANI\programmer\кпз\2\2\bin\Debug\Library.dll
+E:\NANI\programmer\кпз\2\2\bin\Debug\Library.pdb
+E:\NANI\programmer\кпз\2\2\obj\Debug\2.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\2\2\obj\Debug\2.csproj.CopyComplete
+E:\NANI\programmer\кпз\2\2\obj\Debug\2.exe
+E:\NANI\programmer\кпз\2\2\obj\Debug\2.pdb
