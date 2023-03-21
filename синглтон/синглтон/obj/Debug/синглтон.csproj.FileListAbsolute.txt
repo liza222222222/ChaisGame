@@ -1,0 +1,10 @@
+E:\NANI\programmer\кпз\синглтон\синглтон\bin\Debug\синглтон.exe.config
+E:\NANI\programmer\кпз\синглтон\синглтон\bin\Debug\синглтон.exe
+E:\NANI\programmer\кпз\синглтон\синглтон\bin\Debug\синглтон.pdb
+E:\NANI\programmer\кпз\синглтон\синглтон\obj\Debug\синглтон.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\синглтон\синглтон\obj\Debug\синглтон.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\синглтон\синглтон\obj\Debug\синглтон.exe
+E:\NANI\programmer\кпз\синглтон\синглтон\obj\Debug\синглтон.pdb
+E:\NANI\programmer\кпз\синглтон\синглтон\bin\Debug\singlton.dll
+E:\NANI\programmer\кпз\синглтон\синглтон\bin\Debug\singlton.pdb
+E:\NANI\programmer\кпз\синглтон\синглтон\obj\Debug\синглтон.csproj.CopyComplete

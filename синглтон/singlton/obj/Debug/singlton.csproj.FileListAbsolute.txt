@@ -1,0 +1,5 @@
+E:\NANI\programmer\кпз\синглтон\singlton\obj\Debug\singlton.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\синглтон\singlton\bin\Debug\singlton.dll
+E:\NANI\programmer\кпз\синглтон\singlton\bin\Debug\singlton.pdb
+E:\NANI\programmer\кпз\синглтон\singlton\obj\Debug\singlton.dll
+E:\NANI\programmer\кпз\синглтон\singlton\obj\Debug\singlton.pdb
