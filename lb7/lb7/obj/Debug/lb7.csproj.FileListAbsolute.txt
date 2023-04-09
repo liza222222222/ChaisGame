@@ -1,0 +1,13 @@
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.Form1.resources
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.Properties.Resources.resources
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.csproj.GenerateResource.cache
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\lb7\lb7\bin\Debug\lb7.exe.config
+E:\NANI\programmer\кпз\lb7\lb7\bin\Debug\lb7.exe
+E:\NANI\programmer\кпз\lb7\lb7\bin\Debug\lb7.pdb
+E:\NANI\programmer\кпз\lb7\lb7\bin\Debug\ClassLibrary1.dll
+E:\NANI\programmer\кпз\lb7\lb7\bin\Debug\ClassLibrary1.pdb
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.csproj.CopyComplete
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.exe
+E:\NANI\programmer\кпз\lb7\lb7\obj\Debug\lb7.pdb
