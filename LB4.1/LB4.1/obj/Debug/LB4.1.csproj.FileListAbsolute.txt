@@ -1,0 +1,13 @@
+E:\NANI\programmer\кпз\LB4.1\LB4.1\bin\Debug\LB4.1.exe.config
+E:\NANI\programmer\кпз\LB4.1\LB4.1\bin\Debug\LB4.1.exe
+E:\NANI\programmer\кпз\LB4.1\LB4.1\bin\Debug\LB4.1.pdb
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4._1.Properties.Resources.resources
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.csproj.GenerateResource.cache
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.exe
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.pdb
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4._1.Form1.resources
+E:\NANI\programmer\кпз\LB4.1\LB4.1\bin\Debug\builder.dll
+E:\NANI\programmer\кпз\LB4.1\LB4.1\bin\Debug\builder.pdb
+E:\NANI\programmer\кпз\LB4.1\LB4.1\obj\Debug\LB4.1.csproj.CopyComplete

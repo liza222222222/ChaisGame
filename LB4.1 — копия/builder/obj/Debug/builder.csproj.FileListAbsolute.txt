@@ -1,0 +1,8 @@
+E:\NANI\programmer\кпз\LB4.1\builder\bin\Debug\builder.dll
+E:\NANI\programmer\кпз\LB4.1\builder\bin\Debug\builder.pdb
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.csprojAssemblyReference.cache
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.csproj.CoreCompileInputs.cache
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.dll
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.pdb
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.Resource1.resources
+E:\NANI\programmer\кпз\LB4.1\builder\obj\Debug\builder.csproj.GenerateResource.cache
